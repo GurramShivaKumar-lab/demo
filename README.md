@@ -1,2 +1,2 @@
 # demo
-The fist repository 
+The first repository 
